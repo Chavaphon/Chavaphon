@@ -1,4 +1,4 @@
-# Hi, I'm Chavaphon 👋
+# Hi, I'm Chavaphon 🙂
 
 CS student at KMUTT building stateful AI agents with Python and LangGraph.
 
