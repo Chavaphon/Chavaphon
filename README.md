@@ -20,4 +20,5 @@ Progressive tutorial series covering custom tools, code execution, sequential an
 **Languages:** Python
 **LLM & agents:** LangGraph, LangChain, Google ADK, Ollama, Gemini
 **Retrieval:** Chroma, Tavily, embeddings, RAG pipelines
-**Backend & tools:** FastAPI, Pydantic, pytest, Git, Claude
+**Backend & tools:** FastAPI, Pydantic, pytest, Git
+**AI dev tools:** Claude Code
